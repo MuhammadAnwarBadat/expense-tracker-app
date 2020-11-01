@@ -1,4 +1,4 @@
-name: Deploying React Expense Tracker 
+name: Deploying React Expense Tracker App
 
 on:
   push:
