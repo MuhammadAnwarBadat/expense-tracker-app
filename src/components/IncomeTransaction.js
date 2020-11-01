@@ -14,7 +14,7 @@ const IncomeTransaction = ({ incomeTransaction }) => {
         onClick={() => deleteTransaction(incomeTransaction.id)}
         className="delete-btn"
       >
-        <a className="trash" href="#">X</a>
+        <a className="trash">X</a>
       </button>
     </li>
   );
